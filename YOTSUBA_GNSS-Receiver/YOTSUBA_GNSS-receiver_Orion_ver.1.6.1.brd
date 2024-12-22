@@ -2913,7 +2913,7 @@ design rules under a new name.</description>
 <attribute name="MOUSER_TESTING_PRICE-STOCK" value="" x="45.65" y="40.9" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="NAME" x="36.325" y="24.65" size="1.27" layer="51" align="center"/>
 </element>
-<element name="C10" library="rcl" package="C1608" package3d_urn="urn:adsk.eagle:package:23621/2" value="1u" x="33.4" y="20.3" smashed="yes" rot="R90">
+<element name="C10" library="rcl" package="C1608" package3d_urn="urn:adsk.eagle:package:23621/2" value="0.1u" x="33.4" y="20.3" smashed="yes" rot="R90">
 <attribute name="NAME" x="33.465" y="23.74" size="1.016" layer="51" ratio="10" rot="R90" align="center"/>
 <attribute name="POPULARITY" value="3" x="32.7" y="-12.15" size="1.778" layer="27" rot="R90" display="off"/>
 <attribute name="SPICEPREFIX" value="C" x="32.7" y="-12.15" size="1.778" layer="27" rot="R90" display="off"/>
